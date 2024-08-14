@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VSP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_have_account_register">Not Have Account? <b>Register</b></string>
+    <string name="already_have_account_login">Already Have Account? <b>Login</b></string>
+    <string name="default_web_client_id">932577078708-dscmr3aqm4buqsgscfbv9uvfqbt2i06e.apps.googleusercontent.com</string>
+    <string name="didn_t_receive_otp_resnd">Didn\'t receive OTP? <b>Resnd</b></string>
+    <string name="email">Email</string>
+    <string name="forgot_password_recover">Forgot Password? <b>Recover</b></string>
+    <string name="submit">Submit</string>
+
+    <string name="price_symbol">₹</string>
+
+
+    <string name="google_map_api_key">AIzaSyDw5sji3Kg8sapX6g33mnkAjxQsxjjm2-g</string>
+
+
+</resources>

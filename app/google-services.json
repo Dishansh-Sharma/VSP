@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932577078708",
+    "project_id": "visp-376dc",
+    "storage_bucket": "visp-376dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932577078708:android:4bb0aa23fe0739d1e0d6e1",
+        "android_client_info": {
+          "package_name": "com.example.vsp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCohPTSUto_ZSyaIyXWG2aH8bcA4OjKIEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
